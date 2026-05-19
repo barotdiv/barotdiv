@@ -22,18 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=barotdiv&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barotdiv&layout=compact&theme=radical"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
