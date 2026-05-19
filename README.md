@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Div Barot</h1>
 
-<h3 align="center">
-Computer Science Student | Developer | Problem Solver
-</h3>
-
 ---
 
 ## 🚀 About Me
@@ -65,9 +61,6 @@ Computer Science Student | Developer | Problem Solver
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
 
 </p>
 
